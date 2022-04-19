@@ -5,8 +5,7 @@ const Footer = () => {
         <footer className="main-footer">
         {/* To the right */}
         <div className="float-right d-none d-sm-inline">
-            Anything you want 
-            test test test
+            Anything you want test test test data
         </div>
         {/* Default to the left */}
         <strong>Copyright © 2014-2021 <a href="https://adminlte.io">AdminLTE.io</a>.</strong> All rights reserved.
